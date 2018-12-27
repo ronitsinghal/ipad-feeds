@@ -48,10 +48,10 @@
 			"count": "5"
 		},
 		{
-			"name": "IOS MIXED",
-			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IosMixed.geojson",
+			"name": "IPAD MIXED",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/ipad-feeds/master/iPad-mixed",
 			"tn": "prmixed",
-			"uid": "IOSMixed",
+			"uid": "IPADMIXED",
 			"ct": "5",
 			"secid": "",
 			"brimageid": "66827031",
