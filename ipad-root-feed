@@ -1,5 +1,5 @@
 {
-"masterFeedURLiPad": "https://timesofindia.indiatimes.com/feeds/testmasterfeed.cms?platform=ipad&ipadver=258&ts=1521644165000",
+"masterFeedURLiPad": "https://raw.githubusercontent.com/ronitsinghal/ipad-feeds/master/ipad-masterfeed",
 "masterFeedUpdateTimeiPad": "1521644165000",
 "continent": "NON_EU"
 }
