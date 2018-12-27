@@ -10,6 +10,17 @@
 			"count": "5"
 		},
 		{
+			"name": "IPAD MIXED",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/ipad-feeds/master/iPad-mixed",
+			"tn": "prmixed",
+			"uid": "IPADMIXED",
+			"ct": "5",
+			"secid": "",
+			"brimageid": "66827031",
+			"nbrimageid": "66827052",
+			"count": "5"
+		},
+		{
 			"name": "Top Videos",
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-4762524,tag-vdo,uid-Video-01,category-Video-01.cms?platform=ipad&ipadver=258",
 			"sectionurl": "https://timesofindia.indiatimes.com/testfeedurllist4/category-Video-01,feedtype-sjson.cms?platform=ipad&ipadver=258",
@@ -45,17 +56,6 @@
 			"uid": "Kichdi-01",
 			"ct": "7",
 			"secid": "",
-			"count": "5"
-		},
-		{
-			"name": "IPAD MIXED",
-			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/ipad-feeds/master/iPad-mixed",
-			"tn": "prmixed",
-			"uid": "IPADMIXED",
-			"ct": "5",
-			"secid": "",
-			"brimageid": "66827031",
-			"nbrimageid": "66827052",
 			"count": "5"
 		},
 		{
