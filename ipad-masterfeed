@@ -129,8 +129,8 @@
 		"markOffenciveUrl": "/feeds/markoffensivefeed.cms?ofusername=%@&ofreason=NONE&ofcommenteroid=%@&ofcommentchannelid=-2128958273&ofcommentid=%@&ofuserisloggedin=%@&ofuserssoid=%@&ofuseremail=%@&opinionid=%@&typeid=%@&rateid=%@&ofreason=%@&checkstatus=1&mytcommentid=%@&feedtype=sjson",
 		"ratingUrl": "https://myt.indiatimes.com/mytimes/alreadyRatedM?userId=0&baseEntityId=0&uniqueAppKey=%@&appKey=TOI&ticketId=%@",
 		"gaanaItunesLink": "itms-apps://itunes.apple.com/app/gaana/id585270521?ls=1&mt=8",
-		"homeUrl": "https://timesofindia.indiatimes.com/feeds/testfeedurllist4.cms?ts=1521644165000&platform=ipad&feedtype=sjson&ipadver=258&reqfrm=home",
-		"categoriesUrl": "https://timesofindia.indiatimes.com/feeds/testfeedurllist4.cms?ts=1521644165000&platform=ipad&feedtype=sjson&ipadver=258&reqfrm=sections",
+		"homeUrl": "https://raw.githubusercontent.com/ronitsinghal/ipad-feeds/master/ipad-home-url",
+		"categoriesUrl": "https://raw.githubusercontent.com/ronitsinghal/ipad-feeds/master/ipad-categoryurl",
 		"topTrendsUrl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-7137896,tag-tkwd.cms?platform=ipad&ipadver=258&adreqfrm=sec"
 	},
 	"Strings": {
