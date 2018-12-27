@@ -1,0 +1,104 @@
+{
+	"home": {
+		"name": "Top Stories",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/testhomenewslistingfeed/feedtype-sjson,msid-51396865,tag-strt,uid-Top-01.cms?platform=ipad&ipadver=258&adreqfrm=home",
+		"tn": "mixed",
+		"uid": "Top-01",
+		"ct": "3"
+	},
+	"widgets": [{
+			"name": "Top Videos",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-4762524,tag-vdo,uid-Video-01,category-Video-01.cms?platform=ipad&ipadver=258",
+			"sectionurl": "https://timesofindia.indiatimes.com/testfeedurllist4/category-Video-01,feedtype-sjson.cms?platform=ipad&ipadver=258",
+			"tn": "videolist",
+			"uid": "Video-01",
+			"ct": "10",
+			"secid": "4762524",
+			"count": "5"
+		},
+		{
+			"name": "Photos",
+			"defaulturl": "https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,tag-top,uid-Photo-01,category-Photo-01.cms?platform=ipad&ipadver=258&adreqfrm=sec",
+			"sectionurl": "https://timesofindia.indiatimes.com/testfeedurllist4/category-Photo-01,feedtype-sjson.cms?platform=ipad&ipadver=258",
+			"tn": "photoslider",
+			"uid": "Photo-01",
+			"ct": "10",
+			"secid": "",
+			"count": "10"
+		},
+		{
+			"name": "BRIEFS",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-48986328,tag-alrt,uid-Briefs-01,type-brief.cms?platform=ipad&ipadver=258&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "Briefs-01",
+			"ct": "15",
+			"secid": "48986328",
+			"count": "5"
+		},
+		{
+			"name": "Trending",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,tag-trending,uid-Trending-01.cms?platform=ipad&ipadver=258&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "Trending-01",
+			"ct": "30",
+			"secid": "",
+			"count": "5"
+		},
+		{
+			"name": "Latest",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,tag-latest,uid-Latest-01.cms?platform=ipad&ipadver=258&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "Latest-01",
+			"ct": "7",
+			"secid": "",
+			"count": "15"
+		},
+		{
+			"name": "Most Read",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,tag-ibeatmostread,uid-Mostread-01.cms?platform=ipad&ipadver=258&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "Mostread-01",
+			"ct": "7",
+			"secid": "",
+			"count": "5"
+		},
+		{
+			"name": "Most Shared",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,tag-ibeatmostshare,uid-Mostshare-01.cms?platform=ipad&ipadver=258&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "Mostshare-01",
+			"ct": "7",
+			"secid": "",
+			"count": "5"
+		},
+		{
+			"name": "Opinion",
+			"defaulturl": "https://blogs.timesofindia.indiatimes.com/wp-admin/admin-ajax.php?action=blogsFeed&tag=featured",
+			"tn": "opinionlist",
+			"uid": "Opinion-01",
+			"ct": "10",
+			"dnseu": "true",
+			"secid": "",
+			"count": "5"
+		},
+		{
+			"name": "Daily Briefs",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedhc/feedtype-sjson,msid-48955575,tag-topalrtdf,uid-dbrief-01.cms?platform=ipad&ipadver=258&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "dbrief-01",
+			"ct": "10",
+			"secid": "48955575",
+			"count": "5"
+		},
+		{
+			"name": "Photos",
+			"defaulturl": "https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,tag-top,uid-Photo-01,category-Photo-01.cms?platform=ipad&ipadver=258&adreqfrm=sec",
+			"sectionurl": "https://timesofindia.indiatimes.com/testfeedurllist4/category-Photo-01,feedtype-sjson.cms?platform=ipad&ipadver=258",
+			"tn": "photoslider",
+			"uid": "Photo-01",
+			"ct": "10",
+			"secid": "",
+			"count": "10"
+		}
+	]
+}
