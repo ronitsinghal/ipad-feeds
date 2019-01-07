@@ -25,5 +25,13 @@
 		"ct": "10",
 		"secid": "",
 		"count": "10"
+	},{
+		"name": "IOS-MIXED",
+		"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/ipad-feeds/master/iPad-mixed",
+		"tn": "mixed",
+		"uid": "Featured-01",
+		"ct": "10",
+		"secid": "4440100",
+		"count": "5"
 	}]
 }
