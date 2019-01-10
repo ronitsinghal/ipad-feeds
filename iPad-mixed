@@ -94,12 +94,12 @@
 			"lpt": "1539240765000",
 			"dl": "1539240765000",
 			"hl": "Too many kids per class: CBSE schools in the dock",
-			"type":"featured",
 			"imageid": "66152208",
 			"id": "66152208",
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
+			"type": "featured",
 			"brimageid": "66950473",
 			"nbrimageid": "66950473",
 			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms"
