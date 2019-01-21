@@ -766,6 +766,7 @@
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
+			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/city/meerut/articleshow/65501130.cms"
 		},
 		{
@@ -924,7 +925,6 @@
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
-			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/how-this-workout-leaves-the-streets-cleaner/articleshow/66152496.cms"
 		},
 		{
