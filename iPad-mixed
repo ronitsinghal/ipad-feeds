@@ -6,8 +6,7 @@
 		"tp": "6",
 		"cp": "1"
 	},
-	"items": [
-		{
+	"items": [{
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
 			"name": "Prime Mixed Slider",
 			"secid": "2048925",
@@ -25,10 +24,10 @@
 					"tn": "news",
 					"dm": "t",
 					"id": "67394523",
-					"type":"featured",
+					"type": "featured",
 					"wu": "https://timesofindia.indiatimes.com/india/how-society-identifies-hounds-rape-survivors/articleshow/67394523.cms",
 					"kws": "restorative justice,rape survivor,Rape,justice,gang rape"
-				},{
+				}, {
 					"type": "featured",
 					"cs": "prime",
 					"ag": "TNN",
@@ -1167,7 +1166,6 @@
 			"hl": "Test article for Prime - Sunny",
 			"syn": "India and China’s space programmes may be vastly different in priority but what Moon and Mars.",
 			"imageid": "64648795&pl=18279",
-			"syn": "The BJP on Tuesday pulled out of the \"untenable\" alliance with the PDP + in Jammu and Kashmir.\"It has become untenable for the BJP to continue in the alliance government in the state\", BJP general secretary Ram Madhav said at a press conference.",
 			"id": "64648795",
 			"dm": "t",
 			"tn": "news",
