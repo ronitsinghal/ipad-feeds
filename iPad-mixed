@@ -1808,6 +1808,96 @@
 					"tn": "news",
 					"wu": "https://timesofindia.indiatimes.com/india/theres-more-to-lord-ayyappa-than-most-hindus-know/articleshow/66509905.cms",
 					"kws": "sabarimala,Lord Ayyappa,dharma sastha,Ayyappa,achankovil temple,Achankovil"
+				}, {
+					"hl": "Headline above the image and no synopsis",
+					"id": "67791426",
+					"upd": "1533122062000",
+					"lpt": "1533122062000",
+					"dl": "1531072740000",
+					"tn": "news",
+					"dm": "t",
+					"imageid": "67791483"
+				}, {
+					"hl": "Headline below the image and no synopsis",
+					"id": "67791506",
+					"upd": "1533122062000",
+					"lpt": "1533122062000",
+					"dl": "1531072740000",
+					"tn": "news",
+					"dm": "t",
+					"imageid": "67791483"
+				}, {
+					"hl": "Vertical image with title at bottom centre",
+					"id": "67791614",
+					"upd": "1533122062000",
+					"lpt": "1533122062000",
+					"dl": "1531072740000",
+					"tn": "news",
+					"dm": "t",
+					"imageid": "67847088"
+				}, {
+					"hl": "White title at bottom centre",
+					"id": "67851572",
+					"upd": "1533122062000",
+					"lpt": "1533122062000",
+					"dl": "1531072740000",
+					"tn": "news",
+					"dm": "t",
+					"imageid": "67851739"
+				}, {
+					"hl": "Black title at bottom centre",
+					"id": "67851838",
+					"upd": "1533122062000",
+					"lpt": "1533122062000",
+					"dl": "1531072740000",
+					"tn": "news",
+					"dm": "t",
+					"imageid": "67992014"
+				}, {
+					"hl": "White title at top centre",
+					"id": "67775025",
+					"upd": "1533122062000",
+					"lpt": "1533122062000",
+					"dl": "1531072740000",
+					"tn": "news",
+					"dm": "t",
+					"imageid": "67775025"
+				}, {
+					"hl": "Black title at left and highlights medium",
+					"id": "67775270",
+					"upd": "1533122062000",
+					"lpt": "1533122062000",
+					"dl": "1531072740000",
+					"tn": "news",
+					"dm": "t",
+					"imageid": "67775317"
+				}, {
+					"hl": "White title at right",
+					"id": "67775339",
+					"upd": "1533122062000",
+					"lpt": "1533122062000",
+					"dl": "1531072740000",
+					"tn": "news",
+					"dm": "t",
+					"imageid": "67775349"
+				}, {
+					"hl": "Black title at top and XL highlights",
+					"id": "67775378",
+					"upd": "1533122062000",
+					"lpt": "1533122062000",
+					"dl": "1531072740000",
+					"tn": "news",
+					"dm": "t",
+					"imageid": "67775410"
+				}, {
+					"hl": "Black title below the image and huge highlights",
+					"id": "67775421",
+					"upd": "1533122062000",
+					"lpt": "1533122062000",
+					"dl": "1531072740000",
+					"tn": "news",
+					"dm": "t",
+					"imageid": "67775453"
 				},
 				{
 					"ag": "TNN",
